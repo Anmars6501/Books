@@ -1,2 +1,2 @@
 # Books
-An index.html file where I used bootstrap cards and list items to describe some books I have read.
+This is a project that demonstrated the use of bootstrap styling and styling components. The bootstrap component that was used was a card, where an unordered list was added to the card.
